@@ -1,15 +1,36 @@
-.header {
+.blockone{
+    background-color: #1f2937;
+}
 
+.header{
+    
 }
 
 .headerlogo {
-
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .headerlink {
-
+    color: #F9FAF8;
 }
 
 .headerlinkcontainer {
 
+}
+
+.infobanner {
+
+}
+
+.infocontainer {
+
+}
+
+.infoimage {
+
+}
+
+.infodescription {
+    
 }
