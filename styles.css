@@ -2,6 +2,22 @@
     background-color: #1f2937;
 }
 
+.blocktwo {
+    background-color: #1f2937;
+    color: #F9FAF8;
+    display: flex;
+}
+
+.blocktwosub {
+    flex: 1;
+}
+
+button {
+    background-color: #3882f6;
+    color: #F9FAF8;
+}
+
+
 .header{
     
 }
@@ -20,10 +36,14 @@
 }
 
 .infobanner {
-
+    display: flex;
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
 }
 
 .infocontainer {
+    
 
 }
 
@@ -32,5 +52,29 @@
 }
 
 .infodescription {
+
+}
+
+.subcontainerone {
+    flex: 1;
+
+}
+
+.subcontainertwo {
+    display: flex;
     
+}
+
+.quotecontainer {
+    background-color: #e5e7eb;
+}
+
+.quotebox {
+
+}
+
+.quoteblock {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
 }
